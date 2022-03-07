@@ -1,0 +1,25 @@
+{
+  "name": "learnnodejsexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEA1902/LearnNodejs_Express.git"
+  },
+  "keywords": [
+    "f8"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SEA1902/LearnNodejs_Express/issues"
+  },
+  "homepage": "https://github.com/SEA1902/LearnNodejs_Express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
